@@ -3,15 +3,14 @@
 
 <font color=#FF0000>发布内容不构成任何投资建议，内容为个人观点，仅供参考！！！</font>
 
-## 一、币圈必备工具
-> * VPN：Virtual Private Network，自行搜索相关信息。
+## 一、撸空投必备工具
+> * 电脑：研究、操作项目，最好用电脑，手机操作不方便
+> * VPN：虚拟私有网络
 > * 交易所：[欧易](https://www.okx.com/zh-hans)、[币安](https://www.binance.com/zh-CN)
 > * 社交软件：[Discord](https://discord.com/)、[推特/X](https://twitter.com/home)、[Telegram](https://telegram.org/)
 > * 视频网站：[油管](https://www.youtube.com/)
-> * 翻译工具：项目一般是英文平台，看不懂就通过软件翻译。[DeepL翻译](https://deepl.com/)、DeepL翻译插件浏览器扩展商店自行搜索
-> * 电脑：研究、操作项目，最好用电脑，手机操作不方便。
+> * 翻译工具：项目一般是英文平台，看不懂就通过软件翻译。[DeepL翻译](https://deepl.com/)
 > * 空投项目发现网站：[airdrops](https://airdrops.io/latest/)、[defillama](https://defillama.com/airdrops)、[dropsearn](https://dropsearn.com/airdrops/)、[alphadrops](https://www.alphadrops.net/alpha)、[airdropalert](https://airdropalert.com/)、[airdropbob](https://www.airdropbob.com/)、[coinmarketcap](https://coinmarketcap.com/zh/airdrop/)、[airdrops-one](https://airdrops.one/zh-cn)
-> * 聚合网站：[coinmarkcap](https://coinmarketcap.com/)、[coingecko](https://www.coingecko.com/)、[dexscreener](https://dexscreener.com/)、[解锁工具](https://token.unlocks.app/)
 
 
 ## 什么是空投
@@ -22,11 +21,11 @@
 
 ## 撸空投需要投入什么
 
-空投需要投入两样东西：时间和少量的金钱。
+时间和少量的金钱。
 
 时间是为了寻找和识别好的项目方，以及完成项目方的任务。
 
-对这行没有太多认识之前，不要花太多金钱，用闲钱投资，用闲钱投资，用闲钱投资。
+不要花太多金钱，用闲钱投资，用闲钱投资，用闲钱投资。
 
 ## 空投有哪些类型
 
@@ -39,8 +38,7 @@
 
 ## 空投能暴富吗
 
-要想通过空投实现暴富，基本不可能。通过空投赚点小钱还是可能的，几百、上千元没有太大问题，要获得上万元的空投需要较大的付出（金钱 or 时间）。
-把空投当作副业来做是比较合适的做法，如果期望一夜暴富，可能空投并不能带来期望的结果。
+要想通过空投实现暴富，基本不可能。通过空投赚点小钱还是可能的，几百、上千元没有太大问题，要获得上万元的空投需要较大的付出（金钱 or 时间），把空投当作副业来做是比较合适的做法。
 
 ## 需要了解的知识
 
