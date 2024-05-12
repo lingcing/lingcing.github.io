@@ -1,23 +1,23 @@
-币圈教程指南
+空投指南(更新中)
 ============
 
-<font color=#FF0000>发布内容不构成任何投资建议，内容为个人观点，仅供参考！！！</font>
-
-## 一、撸空投必备工具
-> * 电脑：研究、操作项目，最好用电脑，手机操作不方便
-> * VPN：虚拟私有网络
-> * 交易所：[欧易](https://www.okx.com/zh-hans)、[币安](https://www.binance.com/zh-CN)
-> * 社交软件：[Discord](https://discord.com/)、[推特/X](https://twitter.com/home)、[Telegram](https://telegram.org/)
-> * 视频网站：[油管](https://www.youtube.com/)
-> * 翻译工具：项目一般是英文平台，看不懂就通过软件翻译。[DeepL翻译](https://deepl.com/)
-> * 空投项目发现网站：[airdrops](https://airdrops.io/latest/)、[defillama](https://defillama.com/airdrops)、[dropsearn](https://dropsearn.com/airdrops/)、[alphadrops](https://www.alphadrops.net/alpha)、[airdropalert](https://airdropalert.com/)、[airdropbob](https://www.airdropbob.com/)、[coinmarketcap](https://coinmarketcap.com/zh/airdrop/)、[airdrops-one](https://airdrops.one/zh-cn)
-
+<font color=#FF0000>本文不构成任何投资建议，内容为个人观点，仅供参考！！！</font>
 
 ## 什么是空投
 
 空投是参与加密货币项目、完成项目方任务，项目方会给予参与一定数量的代币。
 
 空投可以给快速推广项目，给项目方带来活跃度。
+
+## 空投必备工具
+
+> * 电脑：研究、操作项目，最好用电脑，手机操作不方便
+> * 科学上网工具：自行购买
+> * 交易所：[欧易](https://www.okx.com/zh-hans)、[币安](https://www.binance.com/zh-CN)
+> * 社交软件：[Discord](https://discord.com/)、[推特/X](https://twitter.com/home)、[Telegram](https://telegram.org/)
+> * 视频网站：[油管](https://www.youtube.com/)
+> * 翻译工具：项目一般是英文平台，看不懂就通过软件翻译。[DeepL翻译](https://deepl.com/)
+> * 空投项目发现网站：[airdrops](https://airdrops.io/latest/)、[defillama](https://defillama.com/airdrops)、[dropsearn](https://dropsearn.com/airdrops/)、[alphadrops](https://www.alphadrops.net/alpha)、[airdropalert](https://airdropalert.com/)、[airdropbob](https://www.airdropbob.com/)、[coinmarketcap](https://coinmarketcap.com/zh/airdrop/)、[airdrops-one](https://airdrops.one/zh-cn)
 
 ## 撸空投需要投入什么
 
@@ -27,7 +27,7 @@
 
 不要花太多金钱，用闲钱投资，用闲钱投资，用闲钱投资。
 
-## 空投有哪些类型
+## 有哪些类型空投
 
 > * 硬分叉空投：目前这种空投项目基本没有了。
 > * 标准空投：完成简单的任务，发放相应代币。但这类项目大多数没有什么价值，需要通过推特、Discord、Telegram分析项目。
@@ -38,7 +38,9 @@
 
 ## 空投能暴富吗
 
-要想通过空投实现暴富，基本不可能。通过空投赚点小钱还是可能的，几百、上千元没有太大问题，要获得上万元的空投需要较大的付出（金钱 or 时间），把空投当作副业来做是比较合适的做法。
+要想通过空投实现暴富，基本不可能。
+
+通过空投赚些钱还是可能的，努努力，上万元的空投也不是不可能。
 
 ## 需要了解的知识
 
@@ -48,13 +50,9 @@
 > * L1（layer one）就是区块链，因为L1的技术局限性，于是衍生出L2（layer two）解决一些L1的问题的技术。协议是为了适应应用场景而设计的标准。
 > * 你对于Web3.0是怎么理解的。
 
-## 撸空投有哪些需要注意的
+<!-- ## 撸空投有哪些需要注意的
 
-要清楚自己每个行动是为什么，以及会带来什么后果，没有想清楚，不要轻易行动。
-
-消息、知识就是金钱，要有自己的判断和思考，不要轻信任何人。
-
-要清楚什么是投机，什么是投资。投机也好，投资也好，清楚自己在干什么很重要。
+避免打黑工，路空头 -->
 
 ## DYOR
 币圈有一个词“DYOR（Do your own research：做你自己的研究）”，很好的说明了应该对这行抱有严谨的心态。
@@ -63,4 +61,4 @@
 
 区块链天生自带金融属性，而且难监管，牛鬼蛇神频出，就更加需要深入研究，避免盲目投资，给自己造成损失。
 
-持续学习，平衡心态，不要FOMO，不亏就是赚。
+持续学习，平衡心态，不要FOMO。
