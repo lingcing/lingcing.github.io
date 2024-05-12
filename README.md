@@ -1,4 +1,4 @@
-凌青作品集
+凌青Blog
 ===========
 —— To be or not to be, that's a question.
 
@@ -7,7 +7,13 @@
 
 ### 文章
 
-> * [币圈入门指南](/cryptocurrency/)
+> * [Web3.0入门](/web3/)
+> * [Web3.0如何赚钱](/web3/earn/)
+
+
+### 社群
+
+空投群交流群
 
 ## 关于本站
 
