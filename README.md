@@ -18,9 +18,11 @@ lingcing's blog
 
 ### web3交流
 
-可添加微信“lingcing999或者Hb599242”。
+微信：lingcing999或Hb599242
 
 [油管频道](https://www.youtube.com/channel/UCkEY9QkbUlk7-3r4j4zspuA)
+
+[推特](https://x.com/ling_cing_)
 
 ## 关于本站
 
