@@ -15,11 +15,13 @@ lingcing's blog
 
 <font color=#FF0000>不构成任何投资建议，仅供参考！！！</font>
 
-> * [Morph](/web3/project/morph/)
+> * [Morph文档](/web3/project/morph/)——[Morph视频](https://www.youtube.com/watch?v=sLUiiYgPXZs)
 
 #### web3交流
 
 可添加微信“lingcing999或者Hb599242”。
+
+[油管频道](https://www.youtube.com/channel/UCkEY9QkbUlk7-3r4j4zspuA)
 
 ## 关于本站
 
