@@ -5,5 +5,5 @@ lingcing's blog
 
 ## 文章
 > * [Web3](/web3/)
-> * [杂文](/growth/)
+> * [杂谈](/growth/)
 
