@@ -20,5 +20,13 @@ h1 { font-size: clamp(28px, 7.2vw, 34px); line-height: 1.2; letter-spacing: -.02
 .browser-help ol { padding-left: 20px; margin: 0; font-size: 14px; line-height: 1.6; }
 .browser-help li + li { margin-top: 8px; }
 [hidden] { display: none !important; }
+.android-guide .panel { width: min(100%, 420px); transform: translateY(8px); }
+.android-guide .browser-help { margin: 0; padding: 40px 30px 44px; border: 1px solid rgb(255 255 255 / 36%); border-radius: 28px; background: rgb(255 255 255 / 17%); -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); box-shadow: 0 18px 60px rgb(0 0 0 / 18%); }
+.chain { display: block; text-align: center; font-size: 72px; line-height: 1.2; margin: 0 0 24px; }
+.android-guide .browser-help h2 { font-size: clamp(25px, 7.5vw, 34px); line-height: 1.2; font-weight: 750; letter-spacing: -.025em; white-space: nowrap; margin: 0 0 30px; }
+.android-guide .browser-help ol { font-size: clamp(16px, 4.5vw, 19px); line-height: 1.55; padding-left: 23px; }
+.android-guide .browser-help li { padding-left: 4px; }
+.android-guide .browser-help li + li { margin-top: 20px; }
+.menu-arrow { position: fixed; top: max(20px, env(safe-area-inset-top)); right: 18px; width: 62px; height: 74px; filter: drop-shadow(0 2px 2px #0001); }
 @media(min-width: 700px) { .panel { width: 380px; } }
 @media(max-height: 550px) { .panel { transform: none; } .hold-card { min-height: 220px; padding: 26px 20px; gap: 16px; } .hand { font-size: 48px; } }

@@ -31,6 +31,20 @@
   }
   // Do not prevent touchstart, contextmenu or pointerdown: iOS owns link previews.
   const ua = navigator.userAgent;
-  const androidInApp = /Android/i.test(ua) && /TikTok|musical_ly|Bytedance|Instagram|FBAN|FBAV/i.test(ua);
-  document.querySelector('.browser-help').hidden = !androidInApp;
+  const android = /Android/i.test(ua);
+  const ios = /iPhone|iPad|iPod/i.test(ua) || (/Macintosh/i.test(ua) && navigator.maxTouchPoints > 1);
+  const inApp = /TikTok|musical_ly|Bytedance|trill|Instagram|FBAN|FBAV|ByteLocale|BytedanceWebview/i.test(ua) || (android && /; wv\)/i.test(ua));
+  // Explicit visual previews only; production links should omit this parameter.
+  const preview = new URLSearchParams(location.search).get('preview');
+  const showAndroid = preview === 'android' || (preview !== 'ios' && android && inApp);
+  document.querySelector('.browser-help').hidden = !showAndroid;
+  document.querySelector('.menu-arrow').toggleAttribute('hidden', !showAndroid);
+  link.hidden = showAndroid;
+  document.querySelector('.fallback').hidden = showAndroid;
+  document.body.classList.toggle('android-guide', showAndroid);
+  // Once opened externally on Android, continue to WhatsApp; desktop goes directly too.
+  if (destination && !showAndroid && preview !== 'ios' && !ios) {
+    location.replace(destination);
+  }
 })();
+
